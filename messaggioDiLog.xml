@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<utext.EventoNavigazioneGUI>
+  <data formatoData="dd/MM/yyyy">
+    <data>15/01/2019</data>
+  </data>
+  <ora formatoOra="HH:mm:ss">
+    <ora>12:15:18</ora>
+  </ora>
+  <nomeEvento>Chiusura applicazione</nomeEvento>
+</utext.EventoNavigazioneGUI>
